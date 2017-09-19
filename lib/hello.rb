@@ -1,7 +1,7 @@
-def hello_t(array)
+def hello_t(arr)
 
 end
 
 # call your method here!
 
-hello_t(array)
+hello_t(arr)
